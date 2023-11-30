@@ -10,5 +10,5 @@ $ cargo install cargo-generate
 
 To use this template for a project named `myproject`, run
 ```bash
-$ cargo generate --git <todo!> --name myproject
+$ cargo generate --git https://github.com/Doct0rLekter/aoc-template --name myproject
 ```
