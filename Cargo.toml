@@ -2,7 +2,6 @@
 name = "{{project-name}}"
 version = "0.1.0"
 authors = ["{{authors}}"]
-license = "MIT OR Apache-2.0"
 readme = "README.md"
 edition = "2021"
 
